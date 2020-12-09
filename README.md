@@ -40,7 +40,7 @@ git clone https://github.com/nylart/asp-net-core-git-poc.git
 ```
 git submodule update --init
 ```
-For more information on what this means, see below.
+    
 5. Done :)
 
 ## Alternatives to Github.com for server hosting
