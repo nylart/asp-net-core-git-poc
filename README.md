@@ -47,6 +47,7 @@ git submodule update --init
 - [Gitlab](https://gitlab.com/gitlab-com)
 - [Bitbucket](https://bitbucket.org/product)
 - [Gitolite](https://gitolite.com/gitolite/index.html)
+- Azure Dev Ops
 - Or just create your own server
 
 ## Random people on the internets reasoning on why Git > TFS
