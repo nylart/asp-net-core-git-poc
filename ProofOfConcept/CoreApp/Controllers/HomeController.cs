@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using CoreApp.Models;
+using CoreLibrary;
 
 namespace CoreApp.Controllers
 {
@@ -20,6 +21,12 @@ namespace CoreApp.Controllers
 
         public IActionResult Index()
         {
+            // not doing anything useful with this, just proving it can be accessed
+            LibraryTest libraryTest = new LibraryTest()
+            {
+                Test1 = "Test 1",
+                Test2 = "Test 2"
+            };
             return View();
         }
 

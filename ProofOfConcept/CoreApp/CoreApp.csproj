@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="CoreLibrary">
+      <HintPath>..\CoreSubmodule\CoreLibrary\bin\Debug\netcoreapp3.1\CoreLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
