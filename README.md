@@ -26,7 +26,7 @@ git tag [TAG NAME]
 git push origin --tags
 ```
 ### [Branching](https://git-scm.com/docs/git-branch)
-    - It is obvious what branching is, but I specifically created a main and develop branch for the project.
+- It is obvious what branching is, but I specifically created a main and develop branch for the project.
 ### [Pull Requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests#:~:text=Pull%20requests%20let%20you%20tell,merged%20into%20the%20base%20branch)
 - Allows developers to submit a changeset that you wish to push to a branch. When the pull request is opened, the repository maintainer can review the changes before merging it into the branch. This is how code reviews would be done with Git.
 ## Getting Started
